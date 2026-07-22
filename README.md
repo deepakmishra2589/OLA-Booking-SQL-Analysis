@@ -164,15 +164,13 @@ OLA-Booking-SQL-Analysis
 ├── OLA_SQL_Project.sql
 ├── OLA_Booking_Dataset.csv
 ├── LICENSE
-│
-└── screenshots
-    ├── database-preview.png
-    ├── booking-success-rate.png
-    ├── revenue-by-vehicle.png
-    ├── revenue-contribution.png
-    ├── best-rated-vehicle.png
-    ├── customer-rating.png
-    └── top-customers.png
+├── database-preview.png
+├── booking-success-rate.png
+├── revenue-by-vehicle.png
+├── revenue-contribution.png
+├── best-rated-vehicle.png
+├── customer-rating.png
+└── top-customers.png
 ```
 
 ---
