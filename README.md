@@ -115,13 +115,13 @@ The analysis was performed using SQL queries, Views, Aggregate Functions, CTEs, 
 
 ## 📂 Dataset Preview
 
-![Dataset Preview](screenshots/database-preview.png)
+![Dataset Preview](database-preview.png)
 
 ---
 
 ## 💰 Revenue by Vehicle Type
 
-![Revenue by Vehicle Type](screenshots/revenue-by-vehicle.png)
+![Revenue by Vehicle Type](revenue-by-vehicle.png)
 
 ---
 
@@ -133,25 +133,25 @@ The analysis was performed using SQL queries, Views, Aggregate Functions, CTEs, 
 
 ## ⭐ Best Rated Vehicle Type
 
-![Best Rated Vehicle](screenshots/best-rated-vehicle.png)
+![Best Rated Vehicle](best-rated-vehicle.png)
 
 ---
 
 ## 📊 Revenue Contribution
 
-![Revenue Contribution](screenshots/revenue-contribution.png)
+![Revenue Contribution](revenue-contribution.png)
 
 ---
 
 ## 👥 Top Customers
 
-![Top Customers](screenshots/top-customers.png)
+![Top Customers](top-customers.png)
 
 ---
 
 ## ⭐ Customer Rating
 
-![Customer Rating](screenshots/customer-rating.png)
+![Customer Rating](customer-rating.png)
 
 ---
 
